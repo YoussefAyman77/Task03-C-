@@ -1,0 +1,15 @@
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\bin\Debug\net5.0\task03.exe
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\bin\Debug\net5.0\task03.deps.json
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\bin\Debug\net5.0\task03.runtimeconfig.json
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\bin\Debug\net5.0\task03.runtimeconfig.dev.json
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\bin\Debug\net5.0\task03.dll
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\bin\Debug\net5.0\task03.pdb
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.GeneratedMSBuildEditorConfig.editorconfig
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.AssemblyInfoInputs.cache
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.AssemblyInfo.cs
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.csproj.CoreCompileInputs.cache
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.dll
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\refint\task03.dll
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.pdb
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.genruntimeconfig.cache
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\ref\task03.dll
