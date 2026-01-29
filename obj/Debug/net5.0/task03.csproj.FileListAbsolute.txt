@@ -13,3 +13,4 @@ E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\refint\task03.
 E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.pdb
 E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.genruntimeconfig.cache
 E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\ref\task03.dll
+E:\#1 University\DEPI\C#\Day03\Assignment\task03\obj\Debug\net5.0\task03.sourcelink.json

@@ -3,6 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
+using Microsoft.VisualBasic;
 
 namespace task03
 {
@@ -72,23 +73,58 @@ namespace task03
             #endregion
 
             #region Q8
-            Console.Write("Enter the first number: ");
-            int num1 = int.Parse(Console.ReadLine());
-            Console.Write("Enter the second number: ");
-            int num2 = int.Parse(Console.ReadLine());
-            string msg1 = "res: " + num1 + " + " + num2 + " = " + (num1 + num2);
-            Console.WriteLine(msg1);
-            string msg2 = string.Format("res : {0} + {1} = {2}", num1, num2, (num1 + num2));
-            Console.WriteLine(msg2);
-            string msg3 = $"res: {num1} + {num2} = {num1 + num2} ";
-            Console.WriteLine(msg3);
-            //interpolation is the most used one , improves readability
+            // Console.Write("Enter the first number: ");
+            // int num1 = int.Parse(Console.ReadLine());
+            // Console.Write("Enter the second number: ");
+            // int num2 = int.Parse(Console.ReadLine());
+            // string msg1 = "res: " + num1 + " + " + num2 + " = " + (num1 + num2);
+            // Console.WriteLine(msg1);
+            // string msg2 = string.Format("res : {0} + {1} = {2}", num1, num2, (num1 + num2));
+            // Console.WriteLine(msg2);
+            // string msg3 = $"res: {num1} + {num2} = {num1 + num2} ";
+            // Console.WriteLine(msg3);
+            // //interpolation is the most used one , improves readability
             #endregion
-            
-            #region Q9
-            StringBuilder str= new StringBuilder("Youssef");
 
+            #region Q9
+            // StringBuilder str= new StringBuilder("Youssef");
+            // Console.WriteLine(str);
+            // str.Append(" Ayman");
+            // Console.WriteLine(str);
+            // str.Replace("Ayman", "Sab3awy");
+            // Console.WriteLine(str);
+            // str.Insert(0,"Mr,");
+            // Console.WriteLine(str);
+            // str.Remove(0,3);
+            // Console.WriteLine(str);
+            // //they are mutable unlike strings
+            #endregion
+
+            //PART 02\\
+
+            #region Q2
+            // // enums is a special "class" that contains a set of named integer constants.
+            // //we and use enums when we have values that we know will not change,
+            // //To get the integer value from an item, you must explicitly convert to an int
+            // //ex (enum class below the main function)
+            // Console.WriteLine(departments.computer);
+            #endregion
+
+            #region Q3
+            //strings are immutable , good for read only text and simple modificaiton
+            //StringBuilders are mutable , good for more modification purposes and for performance and memory optimization 
             #endregion
         }
+        #region enumdec
+        enum departments
+        {
+            computer,
+            communicaiion,
+            electrical,
+            medical,
+            mechanical
+        }
+        #endregion
+
     }
 }
